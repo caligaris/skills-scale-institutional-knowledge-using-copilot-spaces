@@ -38,3 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Scrum Master is facilitating ceremonies and tracking impediments
+- [ ] DevOps Engineer has deployment pipeline and staging environment ready
+- [ ] Incoming requests routed through [Intake & Triage Checklist](./octoacme-intake-and-triage-checklist.md)

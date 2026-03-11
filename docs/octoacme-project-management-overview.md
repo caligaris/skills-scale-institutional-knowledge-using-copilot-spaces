@@ -18,7 +18,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Scrum Master: facilitates agile ceremonies, removes blockers, coaches the team.
+- UX Designer: owns user research, wireframes, and design specs.
+- DevOps Engineer: manages CI/CD pipelines, environments, and deployment reliability.
+- Stakeholder Sponsor: provides executive oversight, approvals, and escalation resolution.
+- Support Analyst: triages post-release issues and feeds user insights back to the product.
 - Stakeholders: provide inputs and approvals.
+
+See [Roles & Personas](./octoacme-roles-and-personas.md) for full role definitions and [Role Interactions & Ownership](./octoacme-role-interactions-and-ownership.md) for the cross-functional RACI matrix.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +51,8 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+## Additional Resources
+- [Roles & Personas](./octoacme-roles-and-personas.md) — full definitions for all team roles
+- [Role Interactions & Ownership (RACI)](./octoacme-role-interactions-and-ownership.md) — who owns what and cross-functional handoffs
+- [Intake & Triage Checklist](./octoacme-intake-and-triage-checklist.md) — routing incoming work requests efficiently
