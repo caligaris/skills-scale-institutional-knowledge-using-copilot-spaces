@@ -41,3 +41,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX design specs available for sprint-1 stories (UX Designer sign-off)
+- [ ] Infrastructure and environment plan confirmed (DevOps Engineer sign-off)
+- [ ] Roles confirmed for all team members — see [Roles & Personas](./octoacme-roles-and-personas.md)
+- [ ] RACI reviewed for key planning activities — see [Role Interactions & Ownership](./octoacme-role-interactions-and-ownership.md)

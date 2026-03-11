@@ -22,6 +22,10 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] DevOps Engineer confirms pipeline and rollback plan are in place
+- [ ] Stakeholder Sponsor provides go/no-go sign-off for major releases
+- [ ] Support Analyst briefed on new features and knowledge base updated
+- [ ] See [Role Interactions & Ownership](./octoacme-role-interactions-and-ownership.md) for release-stage RACI
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:

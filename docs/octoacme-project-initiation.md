@@ -35,6 +35,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Use the [Intake & Triage Checklist](./octoacme-intake-and-triage-checklist.md) to validate and route any incoming requests tied to this initiative
+
+## Role Clarity at Initiation
+Confirm the following roles are identified before moving to planning. See [Roles & Personas](./octoacme-roles-and-personas.md) for full definitions.
+- **Stakeholder Sponsor**: approves charter and provides go/no-go at the decision gate
+- **Project Manager**: owns the one-pager, stakeholder list, and timeline
+- **Product Manager**: defines success metrics and problem statement
+- **UX Designer**: identified if the initiative has a user-facing component
 
 ## Decision Gate
 Move to planning when:
